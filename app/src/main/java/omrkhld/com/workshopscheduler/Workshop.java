@@ -1,9 +1,11 @@
 package omrkhld.com.workshopscheduler;
 
+import java.io.Serializable;
+
 /**
  * Created by Omar on 21/4/2016.
  */
-public class Workshop {
+public class Workshop implements Serializable {
     private String id, name, coords, phone;
     private boolean tyre_change, oil_change, battery_change;
     private int rating;

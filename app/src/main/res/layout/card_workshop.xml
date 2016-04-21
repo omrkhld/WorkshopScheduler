@@ -46,6 +46,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
+            android:layout_marginBottom="10dp"
             android:layout_below="@+id/rating"
             android:id="@+id/services"
             android:textColor="#FFF"
@@ -59,25 +60,6 @@
             android:id="@+id/servicesInput"
             android:textColor="#FFF"
             android:text="services"/>
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="10dp"
-            android:layout_marginBottom="10dp"
-            android:layout_below="@+id/services"
-            android:id="@+id/distance"
-            android:textColor="#FFF"
-            android:text="Distance: "/>
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_below="@+id/services"
-            android:layout_toRightOf="@+id/distance"
-            android:id="@+id/distanceInput"
-            android:textColor="#FFF"
-            android:text="dist"/>
 
         <RelativeLayout
             android:layout_width="wrap_content"

@@ -60,7 +60,6 @@ public class CardAdapter extends RecyclerView.Adapter<CardAdapter.CardViewHolder
         }
 
         cardViewHolder.vServices.setText(services);
-        cardViewHolder.vDistance.setText("0");
     }
 
     @Override
@@ -78,7 +77,6 @@ public class CardAdapter extends RecyclerView.Adapter<CardAdapter.CardViewHolder
         protected TextView vName;
         protected TextView vRating;
         protected TextView vServices;
-        protected TextView vDistance;
 
         public CardViewHolder(View v) {
             super(v);
@@ -86,7 +84,6 @@ public class CardAdapter extends RecyclerView.Adapter<CardAdapter.CardViewHolder
             vName = (TextView) v.findViewById(R.id.name);
             vRating = (TextView) v.findViewById(R.id.ratingInput);
             vServices = (TextView) v.findViewById(R.id.servicesInput);
-            vDistance = (TextView) v.findViewById(R.id.distanceInput);
         }
     }
 }

@@ -239,7 +239,9 @@ public class MainActivity extends AppCompatActivity {
                 showFilterDialog();
                 return true;
             case R.id.map:
-                startActivity(new Intent(this, MapsActivity.class));
+                Intent intent = new Intent(this, MapsActivity.class);
+                intent.putExtra("Workshops", workshops);
+                startActivity(intent);
                 return true;
             case R.id.sortName:
                 if (workshops != null) {
