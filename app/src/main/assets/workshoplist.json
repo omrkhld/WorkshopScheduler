@@ -1,0 +1,182 @@
+[
+  {
+    "workshop_id": 1,
+    "workshop_name": "Servotronic Motor Workshop",
+    "workshop_coordinates": "103.83942720000005,1.3601703,0.0",
+    "phone": "97929203", "tyre_change": 1,
+    "oil_change": 0,
+    "battery_change": 0,
+    "customer_rating": 2
+  },
+  {
+    "workshop_id": 2,
+    "workshop_name": "Hock Wah Motor Workshop Pte Ltd",
+    "workshop_coordinates": "103.94948999999997,1.336436,0.0",
+    "phone": "97929203", "tyre_change": 1,
+    "oil_change": 0,
+    "battery_change": 1,
+    "customer_rating": 0
+  },
+  {
+    "workshop_id": 3,
+    "workshop_name": "Koh Guan Chua Workshop",
+    "workshop_coordinates": "103.83924209999998,1.3603964,0.0",
+    "phone": "97929203", "tyre_change": 0,
+    "oil_change": 1,
+    "battery_change": 0,
+    "customer_rating": 1
+  },
+  {
+    "workshop_id": 4,
+    "workshop_name": "Kwang Hwee Car Repair Workshop",
+    "workshop_coordinates": "103.89449549999995,1.3200496,0.0",
+    "phone": "97929203", "tyre_change": 1,
+    "oil_change": 1,
+    "battery_change": 1,
+    "customer_rating": 0
+  },
+  {
+    "workshop_id": 5,
+    "workshop_name": "Huat Lee Batteries Motor Service Pte Ltd",
+    "workshop_coordinates": "103.91239300000007,1.341353,0.0",
+    "phone": "97929203", "tyre_change": 0,
+    "oil_change": 0,
+    "battery_change": 1,
+    "customer_rating": 5
+  },
+  {
+    "workshop_id": 6,
+    "workshop_name": "Thomas Partner Workshop",
+    "workshop_coordinates": "103.86924350000004,1.3772195,0.0",
+    "phone": "97929203", "tyre_change": 1,
+    "oil_change": 1,
+    "battery_change": 1,
+    "customer_rating": 3
+  },
+  {
+    "workshop_id": 7,
+    "workshop_name": "Loh Lee Motor Workshop",
+    "workshop_coordinates": "103.69544829999995,1.3251359,0.0",
+    "phone": "97929203", "tyre_change": 1,
+    "oil_change": 0,
+    "battery_change": 1,
+    "customer_rating": 5
+  },
+  {
+    "workshop_id": 8,
+    "workshop_name": "Hock Wah Motor Workshop Pte Ltd (Tampines Branch)",
+    "workshop_coordinates": "103.94241699999998,1.339813,0.0",
+    "phone": "NA", "tyre_change": 0,
+    "oil_change": 1,
+    "battery_change": 0,
+    "customer_rating": 5
+  },
+  {
+    "workshop_id": 9,
+    "workshop_name": "AK Workshop",
+    "workshop_coordinates": "103.86882430000003,1.3774083,0.0",
+    "phone": "97929203", "tyre_change": 1,
+    "oil_change": 0,
+    "battery_change": 1,
+    "customer_rating": 2
+  },
+  {
+    "workshop_id": 10,
+    "workshop_name": "Hussain Sons Workshop",
+    "workshop_coordinates": "103.90080899999998,1.337037,0.0",
+    "phone": "97929203", "tyre_change": 0,
+    "oil_change": 1,
+    "battery_change": 0,
+    "customer_rating": 3
+  },
+  {
+    "workshop_id": 11,
+    "workshop_name": "Lee Sheng Auto Pte Ltd",
+    "workshop_coordinates": "103.91239300000007,1.341353,0.0",
+    "phone": "97929203", "tyre_change": 0,
+    "oil_change": 1,
+    "battery_change": 1,
+    "customer_rating": 3
+  },
+  {
+    "workshop_id": 12,
+    "workshop_name": "Kwang Hwee Car Repair Workshop",
+    "workshop_coordinates": "103.89449549999995,1.3200496,0.0",
+    "phone": "NA", "tyre_change": 1,
+    "oil_change": 1,
+    "battery_change": 1,
+    "customer_rating": 3
+  },
+  {
+    "workshop_id": 13,
+    "workshop_name": "Tan Lim Motor Pte Ltd - Workshop Singapore, Car Repair, Accident Claims",
+    "workshop_coordinates": "103.89148509999995,1.3502506,0.0",
+    "phone": "97929203", "tyre_change": 1,
+    "oil_change": 1,
+    "battery_change": 0,
+    "customer_rating": 5
+  },
+  {
+    "workshop_id": 14,
+    "workshop_name": "Canserve Auto Repair Pte Ltd",
+    "workshop_coordinates": "103.75473290000002,1.3371052,0.0",
+    "phone": "97929203", "tyre_change": 1,
+    "oil_change": 1,
+    "battery_change": 0,
+    "customer_rating": 0
+  },
+  {
+    "workshop_id": 15,
+    "workshop_name": "GSC Auto Service",
+    "workshop_coordinates": "103.8123137,1.4622619,0.0",
+    "phone": "97929203", "tyre_change": 1,
+    "oil_change": 1,
+    "battery_change": 1,
+    "customer_rating": 0
+  },
+  {
+    "workshop_id": 16,
+    "workshop_name": "Han Car Repairs",
+    "workshop_coordinates": "103.80634299999997,1.2846105,0.0",
+    "phone": "97929203", "tyre_change": 0,
+    "oil_change": 0,
+    "battery_change": 1,
+    "customer_rating": 2
+  },
+  {
+    "workshop_id": 17,
+    "workshop_name": "Huat Lee Batteries Motor Service Pte Ltd",
+    "workshop_coordinates": "103.91239300000007,1.341353,0.0",
+    "phone": "97929203", "tyre_change": 1,
+    "oil_change": 1,
+    "battery_change": 1,
+    "customer_rating": 0
+  },
+  {
+    "workshop_id": 18,
+    "workshop_name": "Ricardo Auto Centre Pte Ltd",
+    "workshop_coordinates": "103.81253100000004,1.289998,0.0",
+    "phone": "97929203", "tyre_change": 1,
+    "oil_change": 1,
+    "battery_change": 0,
+    "customer_rating": 2
+  },
+  {
+    "workshop_id": 19,
+    "workshop_name": "Spark Car Care (Pandan)",
+    "workshop_coordinates": "103.74685399999998,1.3008900000000003,0.0",
+    "phone": "97929203", "tyre_change": 1,
+    "oil_change": 0,
+    "battery_change": 1,
+    "customer_rating": 3
+  },
+  {
+    "workshop_id": 20,
+    "workshop_name": "David Auto Service",
+    "workshop_coordinates": "103.94988699999999,1.3367659,0.0",
+    "phone": "97929203", "tyre_change": 1,
+    "oil_change": 0,
+    "battery_change": 1,
+    "customer_rating": 3
+  }
+]

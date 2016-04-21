@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/filter"
+        android:title="Filter"
+        style="@android:style/Widget.ActionButton"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/sort"
+        android:title="Sort"
+        style="@android:style/Widget.ActionButton"
+        app:showAsAction="always">
+
+        <menu>
+            <item android:id="@+id/sortName"
+                android:title="By name"/>
+            <item android:id="@+id/sortRating"
+                android:title="By rating" />
+        </menu>
+    </item>
+
+    <item android:id="@+id/map"
+        android:title="Map"
+        style="@android:style/Widget.ActionButton"
+        app:showAsAction="always">\
+    </item>
+</menu>
